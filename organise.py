@@ -2,8 +2,6 @@ from os import listdir
 from os.path import isfile, join
 import os
 import shutil
-
-
 def sort_files_in_a_folder(mypath):
     """
     A function to sort the files in a download folder
